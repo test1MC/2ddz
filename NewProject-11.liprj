@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LingoProject TargetLanguage="es" xml:lang="es" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="12">
+    <ProjectFile Source="Target/Excel.xlsx" Target="Target/Excel.xlsx" />
+    <ProjectFile Source="Target/database.json" Target="Target/database.json" />
+    <ProjectFile Source="Target/Statistics.txt" Target="Target/Statistics.txt" />
+    <ProjectFile Source="Target/Word.docx" Target="Target/Word.docx" />
+</LingoProject>
